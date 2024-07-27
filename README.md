@@ -1,5 +1,5 @@
 <h1 align="center">Ohaayo 👋, I am K S SREEKUMAR</h1>
-<h3 align="center">An ambitious software developer with experience in the MERN stack, currently pursuing my studies in college.</h3>
+<h3 align="center">An aspiring software developer with experience in the MERN stack, currently pursuing my studies in college.</h3>
 
 - 🔭 I’m currently working on **MERN stack projects and UI/UX designs**
 

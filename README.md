@@ -1,9 +1,9 @@
 <h1 align="center">Ohaayo 👋, I am K S SREEKUMAR</h1>
-<h3 align="center">An ambitious software developer with experience in the MERN stack, currently pursuing my studies in college.</h3>
+<h3 align="center">An ambitious software developer with experience in AI-first Full-stack development, currently pursuing my final year studies in college.</h3>
 
-- 🔭 I’m currently working on **MERN stack projects and UI/UX designs**
+- 🔭 I’m currently working on **Full stack AI-based projects **
 
-- 👯 I’m looking to collaborate on **projects involving Machine learning that can be integrated with my works**
+- 👯 I’m looking to collaborate on **projects involving Agentic AI and Machine Learning that can be integrated with my work**
 
 - 📫 How to reach me **kssreekumar04@gmail.com**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/k-s-sreekumar-3633b3251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="k-s-sreekumar-3633b3251" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sansidsac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="k-s-sreekumar-3633b3251" height="30" width="40" /></a>
 <a href="https://instagram.com/sansidsac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sansidsac" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sansidsac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sansidsac" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sansidsac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sansidsac" height="30" width="40" /></a>
